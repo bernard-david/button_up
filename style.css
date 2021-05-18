@@ -1,0 +1,26 @@
+* {
+    margin: 10px;
+}
+
+.search {
+    width: 100px;
+    border: 1px solid #389b9c;
+    border-radius: 10px;
+    color: #389b9c;
+}
+
+.add {
+    color: white;
+    background-color: #4ed1b1;
+    border: none;
+    border-radius: 50%;
+}
+
+.create {
+    color: white;
+    background-color: #2b78e4;
+    border: 2px solid black;
+    width: 150px;
+    padding: 5px;
+    box-shadow: 3px 3px black;
+}
